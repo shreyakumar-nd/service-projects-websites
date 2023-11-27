@@ -80,21 +80,16 @@
         <h3>End of the Semester Reflection</h3>
 		<p>This semester proved pivotal in refining our expertise and deepening our comprehension of <a href="https://en.wikipedia.org/wiki/System_architecture">system architecture</a> and the intricate paths within the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development cycle</a>. For many of us, adopting <a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile methodologies</a> was a novel but significant experience, marking a pivotal milestone in our professional journey.</p>
 
-		<p>Diving into <a href="https://en.wikipedia.org/wiki/React_Native">React Native</a>, we harnessed its capabilities to fortify our application's robustness. Our engagement with <a href="https://en.wikipedia.org/wiki/MySQL">MySQL</a> broadened our grasp of database management, while <a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> empowered us to craft efficient server-side applications. <a href="https://en.wikipedia.org/wiki/Figma">Figma</a> emerged as our creative canvas, facilitating precise conceptualization and design, and <a href="https://en.wikipedia.org/wiki/Insomnia_(software)">Insomnia</a> streamlined our API development process.</p>
+v<p>Diving into <a href="https://en.wikipedia.org/wiki/React_Native">React Native</a>, we harnessed its capabilities to fortify our application's robustness. Our engagement with <a href="https://en.wikipedia.org/wiki/MySQL">MySQL</a> broadened our grasp of database management, while <a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> empowered us to craft efficient server-side applications. <a href="https://en.wikipedia.org/wiki/Figma">Figma</a> emerged as our creative canvas, facilitating precise conceptualization and design, and <a href="https://en.wikipedia.org/wiki/Insomnia_(software)">Insomnia</a> streamlined our API development process.</p>
 
-		<p>In essence, these past months weren't just about technical advancements; they were a platform for fostering collaboration, enhancing problem-solving abilities, and nurturing a culture of continuous improvement. As a team, we fortified not only our technical prowess but also cultivated invaluable soft skills essential for navigating the dynamic landscape of modern software development.</p>
+<p>In essence, these past months weren't just about technical advancements; they were a platform for fostering collaboration, enhancing problem-solving abilities, and nurturing a culture of continuous improvement. As a team, we fortified not only our technical prowess but also cultivated invaluable soft skills essential for navigating the dynamic landscape of modern software development.</p>
 
-		<p>Looking ahead, the lessons learned and experiences gained during this semester will serve as a steadfast foundation for our ongoing growth and pursuit of excellence in all future endeavors.</p>
-		<H3>Teamwork</H3>
-		<p>Over 13 weeks, our team met biweekly, trying '<a href='https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm'>divide and conquer</a>' and '<a href='https://en.wikipedia.org/wiki/Mob_programming'>mob programming</a>.' We found 'divide and conquer' most effective, letting everyone contribute and learn best. Breaking tasks into segments encouraged ownership, accountability, and efficient problem-solving. This method facilitated continuous learning and boosted our collective productivity, aligning with our diverse learning styles and teamwork.</p>
+<p>Looking ahead, the lessons learned and experiences gained during this semester will serve as a steadfast foundation for our ongoing growth and pursuit of excellence in all future endeavors.</p>
 
-        <h3>Getting Started</h3>
-		<ul>
-		  <li><h4><a href="https://docs.google.com/document/d/11UmjrluD8wOHjmv2hNuQ9sLKFH51iRKZ6HnNzXyG55o/edit?usp=sharing">Link to Handover Document</a></h4></li>
-		</ul>
         <h3>Useful Links</h3>
 		<ul>
 		  <li><h4><a href="https://www.youtube.com/watch?v=fzLPHpOP3Wc&ab_channel=Kong">Link to Insomnia Tutorial</a></h4></li>
+		  <li><h4><a href="https://docs.google.com/document/d/11UmjrluD8wOHjmv2hNuQ9sLKFH51iRKZ6HnNzXyG55o/edit?usp=sharing">Link to Handover Document</a></h4></li>
 		  <li><h4><a href="https://reactnative.dev/docs/getting-started">React Native Official Documentation</a></h4></li>
 		  <li><h4><a href="https://www.youtube.com/watch?v=0-S5a0eXPoc">React Native Tutorial for Beginners by freeCodeCamp</a></h4></li>
 		</ul>
@@ -102,24 +97,13 @@
       <div class="col-md-6">
         <div>
           <h2 class="mb-3">Demo Videos</h2>
-          <div class="video-container gviVideoContainer">
+          <div class="video-container mb-4">
             <iframe src="https://www.youtube.com/embed/ipo8A29DIyI" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
           </div>
-		  <div>
-			<p>The above video is a quick demonstration of our Goodwill App as of November 27, 2023.</p>
-		  </div>
-          <div class="video-container gviVideoContainer">
+          <div class="video-container">
             <iframe src="https://www.youtube.com/embed/k_XAU7xGv90" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
           </div>
-		  <div>
-			<p>This video is audioless for the moment. The main purpose of it is to appreciate how the app will look like from a mobile perspective.</p>
-		  </div>
-          <div class="video-container gviVideoContainer">
-				<iframe src="https://www.youtube.com/embed/pk9-jx5h2w0" frameborder="0" allowfullscreen class="embed-responsive-item"></iframe>
-		  </div>
-		<div>
-			<p>This video is meant to serve as reference for students who will work on the app in the future and are wondering how to connect to the backend.</p>
-		</div>
+        </div>
       </div>
     </div>
   </div>
