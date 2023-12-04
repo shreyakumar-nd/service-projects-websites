@@ -65,7 +65,7 @@
          <h3>3. Source Drop-down </h3>
          <div class='row'>
             <div class='col-md-6'>
-               <p>The site had various source drop-downs that could be used on the site. The client wanted it to be possible to select more than one of these options at a time including the ones that could be added/removed from the ticket above.</p>
+               <p>We worked on this drop-down menu to query and dynamically display sources from the database. We implemented functionality to select multiple sources, but the feature is no longer needed.</p>
             </div>
             <div class='col-md-6'>
                <img src="vocations_images/sourcetab.png" alt="Source drop-down" class="img-responsive" style="width: 40%; height: auto;">
@@ -73,15 +73,16 @@
          </div>
 
          <h3>4. Null DOB Field</h3>
-         <p>The client wanted us to fix a bug that would occur when presenting the date of birth of a user if they had yet to input a value. Before we made changes if a user did not input their date of birth, it would show up as 00-00-0000, we changed this so that it would either appear as the word Null or in other cases it appears as mm/dd/yyyy. Below are images of an empty date of birth field no longer appearing as 00-00-0000.</p>
+         <p>The client wanted us to fix a bug that would occur when presenting the date of birth of a user if they had yet to input a value. Before, if a user did not input their date of birth, it would show up as 00-00-0000. We changed this so that it appears as mm/dd/yyyy when the date is unset and blank if an empty date is entered.</p>
          <div class="row">
             <div class="col-md-4">
-               <img src="vocations_images/Null.png" alt="Shows the date of birth field as null" class="img-responsive">
+                <img src="vocations_images/UnsetDOB.png" alt="Shows an unset DOB field as mm/dd/yyyy">
             </div>
             <div class="col-md-4">
-               <img src="vocations_images/mmddyyyy.png" alt="Shows the date of birth field as mm/dd/yyyy" class="img-responsive">
+                <img src="vocations_images/NullDOB.png" alt="Shows blank DOB field an empty value is entered" style="height: 150px; width: auto;">
             </div>
          </div>
+        
 
          <h3>5. Required College Field</h3>
          <div class='row'>
