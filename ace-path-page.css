@@ -1,0 +1,39 @@
+.memCont{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 20px;
+	/* background-color: #f2f2f2; */
+	border-color: black;
+	border-width: thick;
+	border-radius: 10px;
+}
+
+.r{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.member{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 14%;
+
+}
+
+.image{
+	border-radius: 20px;
+	/* margin: 10px; */
+	width: 100%;
+}
+
+h5{
+	margin-top: 10px;
+	text-align: center;
+}
+
+h7{
+	margin-top: -10px;
+}
